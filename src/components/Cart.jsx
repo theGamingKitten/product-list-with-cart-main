@@ -1,6 +1,6 @@
-import carbonNeutral from '../../public/images/icon-carbon-neutral.svg'
-import deleteItem from '../../public/images/icon-remove-item.svg'
-import emptyCart from '../../public/images/illustration-empty-cart.svg'
+import carbonNeutral from '../../public/assets/images/icon-carbon-neutral.svg'
+import deleteItem from '../../public/assets/images/icon-remove-item.svg'
+import emptyCart from '../../public/assets/images/illustration-empty-cart.svg'
 
 export default function Cart() {
     return (
