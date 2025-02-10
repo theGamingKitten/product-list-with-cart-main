@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <ProductWrapper data={data}/>
-      
+      <Cart/>
       <Footer />
     </>
   )
