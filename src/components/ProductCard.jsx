@@ -1,4 +1,4 @@
-import cartImg from '../assets/images/icon-add-to-cart.svg'
+import cartImg from '../../public/images/icon-add-to-cart.svg'
 
 export default function ProductCard({image, category, name, price}) {
     return (
